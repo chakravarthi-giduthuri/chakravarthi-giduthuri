@@ -1,4 +1,4 @@
-### Hi there - Iam chakravarthi 👋
+### Hi there - Iam CHAKRAVARTHI 👋
 
 
 
