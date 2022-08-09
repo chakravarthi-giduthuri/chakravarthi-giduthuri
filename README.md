@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently studying
-- 🌱 I’m currently learning ... JavaScript
+- 🔭 I’m currently doing Intern
+- 🌱 I’m currently learning ... Hadoop
 - 👯 I’m looking to collaborate with ... everyone
 - 🤔 I’m looking for help with ... BigData
 - 💬 Ask me about ... Python
